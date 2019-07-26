@@ -8,6 +8,7 @@ TuxJSQL has different implementations to prevent bugs inbetween dialects
 
 
 # Current Implementations
+
 |Implementation Name| supported dialect |
 |--|--|
 | [sqlite](https://tuxjsql.dev/sqlite) | sqlite3 |  

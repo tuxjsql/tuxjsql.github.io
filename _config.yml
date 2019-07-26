@@ -1,1 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
+title: TuxJSQL
+description: Tuxjsql documentation
+url: "https://tuxjsql.dev"
+
+aux_links:
+  "TuxJSQL GitHub":
+    - "//github.com/tuxjsql"
