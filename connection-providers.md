@@ -12,4 +12,4 @@ A connection allows you to use different connection pools or different ways of c
 |Connection Provider Name| Description | 
 |--|--|
 | Basic Connection | Basic uses just a single connection and is built in by default |  
-| [HikariCP CP](https://github.com/tuxjsql/hikaricp-cp) | This uses HikariCP as the provider for connection. This is my recommendation. |  
+| [HikariCP CP](https://tuxjsql.dev/hikaricp-cp/) | This uses HikariCP as the provider for connection. This is my recommendation. |  
